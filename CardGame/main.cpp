@@ -70,6 +70,8 @@ int main() {
     distribute(c, g);
     turns(c, g);
 
+    cout<<"test";
+
     return 0;
 
 }
